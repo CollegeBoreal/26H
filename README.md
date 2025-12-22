@@ -5,7 +5,7 @@
 
 ## ÉTAPE 2
 
-| Titre                                                          | Code        | Section     |
+| Titre                                                          | Code        | Sections    |
 |:---------------------------------------------------------------|:------------|:------------|
 | _Professional Communication in English_                        | ENG1011
 | Réseautique 2                                                  | INF1091
@@ -16,7 +16,7 @@
 
 ## ÉTAPE 4
 
-| Titre                                                          | Code        | Section     |
+| Titre                                                          | Code        | Sections    |
 |:---------------------------------------------------------------|:------------|:------------|
 | Réseautique 4                                                  | INF1098
 | Sécurité en réseautique                                        | INF1076
