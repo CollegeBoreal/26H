@@ -14,7 +14,7 @@
 | Introduction aux bases de données                              | INF1094
 | Appui et service technique                                     | INF1095
 
-## ÉTAPE 4
+## ÉTAPE :four:
 
 | Titre                                                          | Code        | Sections    |
 |:---------------------------------------------------------------|:------------|:------------|
