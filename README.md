@@ -3,7 +3,7 @@
 [Calendrier Hiver 2026](https://collegeboreal.ca/wp-content/uploads/2025/12/calendrier-scolaire-ebauche-hiver-2026.pdf)
 
 
-## ÉTAPE 2
+## ÉTAPE 2️⃣
 
 | Titre                                                          | Code        | Sections    |
 |:---------------------------------------------------------------|:------------|:------------|
@@ -21,7 +21,7 @@
 | Réseautique 4                                                  | INF1098
 | Sécurité en réseautique                                        | INF1076
 | Administration d’infrastructure informatique I                 | INF1100
-| Administration de bases de données                             | INF1099      | [0️⃣3️⃣](https://github.com/CollegeBoreal/INF1099-201-26H-03)
+| Administration de bases de données                             | INF1099      | [0️⃣4️⃣](https://github.com/CollegeBoreal/INF1099-201-26H-04)
 | Programmation de systèmes                                      | INF1102      | [0️⃣3️⃣](https://github.com/CollegeBoreal/INF1102-201-26H-03) 🔗 [0️⃣5️⃣](https://github.com/CollegeBoreal/INF1102-201-26H-05)
 | Gestion de projets informatiques                               | INF1101
 | Gestion des communications en informatique                     | INF1103
